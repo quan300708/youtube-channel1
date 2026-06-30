@@ -454,3 +454,243 @@ Story Structure quyết định cách kể lập luận đó.
 Một Story Structure có thể sử dụng nhiều Framework khác nhau.
 
 Ngược lại, cùng một Framework cũng có thể được kể bằng nhiều Story Structure khác nhau.
+# 11. Question → Answer
+
+## Purpose
+
+Xây dựng toàn bộ video xoay quanh một câu hỏi trung tâm và dẫn dắt người xem từng bước tìm ra câu trả lời.
+
+---
+
+## Best Used When
+
+- Chủ đề bắt đầu bằng một câu hỏi.
+- Muốn tạo cảm giác khám phá.
+- Video mang tính giải thích.
+
+---
+
+## Workflow
+
+```text
+Question
+
+↓
+
+Hypothesis
+
+↓
+
+Analysis
+
+↓
+
+Answer
+```
+
+---
+
+## Example
+
+Tại sao Nhật Bản vẫn phát triển dù thiếu tài nguyên?
+
+↓
+
+Đưa ra các giả thuyết.
+
+↓
+
+Phân tích từng giả thuyết.
+
+↓
+
+Đưa ra câu trả lời cuối cùng.
+
+---
+
+# 12. Case Study
+
+## Purpose
+
+Giải thích một khái niệm thông qua một trường hợp cụ thể.
+
+---
+
+## Best Used When
+
+- Có ví dụ điển hình.
+- Muốn người xem dễ hình dung.
+- Muốn kết hợp kể chuyện với lập luận.
+
+---
+
+## Workflow
+
+```text
+Introduce Case
+
+↓
+
+Analyze
+
+↓
+
+Extract Lessons
+
+↓
+
+Generalize
+```
+
+---
+
+## Example
+
+Phân tích Singapore để giải thích vai trò của thể chế trong phát triển kinh tế.
+
+---
+
+# 13. Decision Matrix
+
+## Purpose
+
+Đánh giá nhiều lựa chọn dựa trên cùng một bộ tiêu chí.
+
+---
+
+## Best Used When
+
+- Có nhiều phương án.
+- Không tồn tại đáp án tuyệt đối.
+- Cần đánh giá khách quan.
+
+---
+
+## Workflow
+
+```text
+Options
+
+↓
+
+Criteria
+
+↓
+
+Evaluation
+
+↓
+
+Recommendation
+```
+
+---
+
+## Example
+
+So sánh các chính sách phát triển kinh tế dựa trên:
+
+- Chi phí
+- Hiệu quả
+- Tính bền vững
+- Khả năng triển khai
+
+---
+
+# 14. Scenario Analysis
+
+## Purpose
+
+Phân tích nhiều khả năng có thể xảy ra trong tương lai.
+
+---
+
+## Best Used When
+
+- Chủ đề mang tính dự báo.
+- Có nhiều biến số.
+- Không thể khẳng định một kết quả duy nhất.
+
+---
+
+## Workflow
+
+```text
+Current Situation
+
+↓
+
+Possible Scenarios
+
+↓
+
+Consequences
+
+↓
+
+Most Likely Outcome
+```
+
+---
+
+## Example
+
+Nếu dân số tiếp tục già hóa trong 30 năm tới, nền kinh tế sẽ thay đổi như thế nào?
+
+---
+
+# 15. Layer by Layer
+
+## Purpose
+
+Giải thích một chủ đề phức tạp bằng cách chia thành nhiều tầng thông tin, từ đơn giản đến phức tạp.
+
+---
+
+## Best Used When
+
+- Chủ đề khó.
+- Người xem chưa có nền tảng.
+- Muốn xây dựng hiểu biết từng bước.
+
+---
+
+## Workflow
+
+```text
+Basic Concept
+
+↓
+
+Mechanism
+
+↓
+
+System
+
+↓
+
+Implications
+```
+
+---
+
+## Example
+
+Giải thích nền kinh tế.
+
+↓
+
+Tiền là gì?
+
+↓
+
+Doanh nghiệp hoạt động thế nào?
+
+↓
+
+Thị trường vận hành ra sao?
+
+↓
+
+Kinh tế vĩ mô hình thành như thế nào?
